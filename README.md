@@ -1,2 +1,3 @@
-# WyncodeC11
-This is just a test for completing the homework for 10/17/16
+# WyncodeC11 REPL Game
+
+This is the homework for 10/17/16
